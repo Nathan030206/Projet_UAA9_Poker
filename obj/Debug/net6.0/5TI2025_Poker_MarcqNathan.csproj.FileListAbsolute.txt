@@ -1,0 +1,14 @@
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\bin\Debug\net6.0\5TI2025_Poker_MarcqNathan.exe
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\bin\Debug\net6.0\5TI2025_Poker_MarcqNathan.deps.json
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\bin\Debug\net6.0\5TI2025_Poker_MarcqNathan.runtimeconfig.json
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\bin\Debug\net6.0\5TI2025_Poker_MarcqNathan.dll
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\bin\Debug\net6.0\5TI2025_Poker_MarcqNathan.pdb
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.AssemblyInfo.cs
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.dll
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\refint\5TI2025_Poker_MarcqNathan.dll
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.pdb
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\5TI2025_Poker_MarcqNathan.genruntimeconfig.cache
+C:\Users\natha\source\repos\5TI2025_Poker_MarcqNathan\obj\Debug\net6.0\ref\5TI2025_Poker_MarcqNathan.dll
